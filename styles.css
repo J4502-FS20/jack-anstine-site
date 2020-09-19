@@ -1,0 +1,45 @@
+body {
+background-color: #9FF8BC;
+font-family: 'Helvetica', 'Arial', sans-serif;
+text-align: center;
+}
+
+h1 {
+font-family: 'Oswald', sans-serif;
+font-size: 30px;
+font-weight: bold;
+text-transform: uppercase;
+}
+
+ul {
+list-style-type: none;
+width: 94%;
+min-width: 94%;
+max-width: 94%;
+}
+
+h3 {
+font-family: 'Vollkorn', serif;
+  font-size: 24px;
+  color: #4A4848;
+}
+
+p {
+  font-family: 'PT Sans Narrow', sans-serif;
+}
+
+img {
+width: 100%;
+max-width: 600px;
+}
+
+#joke {
+  background-color: #FFFFFF;
+  padding: 5px;
+
+}
+
+#image {
+  background-color: #FFFFFF;
+    padding: 20px;
+}
