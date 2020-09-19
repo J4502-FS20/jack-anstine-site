@@ -31,13 +31,20 @@ p {
 img {
 width: 100%;
 max-width: 600px;
+border: 0;
 }
 
 #joke {
   background-color: #FFFFFF;
   padding: 5px;
-
 }
+
+a {
+  text-decoration: none;
+  font-weight: bold;
+  color: darkred;
+}
+
 
 #image {
   background-color: #FFFFFF;
